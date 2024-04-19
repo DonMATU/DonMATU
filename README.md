@@ -7,15 +7,15 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 Actualmente estoy aprendiendo **Programación Orientada a Objetos con Java**
+- 🌱 Actualmente trabajo como administrador de sistemas.
 
-- 🧑‍🎓 Soy estudiante de pregrado en **SLIIT**
+- 🧑‍🎓 Soy estudiante de la especialización en ciberseguridad.
 
-- 💬 Pregúntame sobre **desarrollo web | programación orientada a objetos**
+- 🎮 Disfruto participando en CTF (Capture The Flag) y soy usuario activo de Hack The Box.
 
-- 📫 Cómo contactarme **kaveen.dinethma@gmail.com**
-  
-- ⚡ Dato curioso **Puedes llamarme KD**
+- 💻 Programo principalmente en Bash script y estoy interesado en mejorar mis habilidades.
+
+
 
 </td>
 <td width="50%" align="center">
