@@ -7,25 +7,25 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **OOP with Java**
+- 🌱 Actualmente estoy aprendiendo **Programación Orientada a Objetos con Java**
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 Soy estudiante de pregrado en **SLIIT**
 
-- 💬 Ask me about **Web development | OOC**
+- 💬 Pregúntame sobre **desarrollo web | programación orientada a objetos**
 
-- 📫 How to reach me **kaveen.dinethma@gmail.com**
+- 📫 Cómo contactarme **kaveen.dinethma@gmail.com**
   
-- ⚡ Fun fact **Call me as KD**
+- ⚡ Dato curioso **Puedes llamarme KD**
 
 </td>
 <td width="50%" align="center">
 
-<iframe src="https://giphy.com/embed/2DUl6BtXGAx2uyqIas" width="420" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-2DUl6BtXGAx2uyqIas">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/2DUl6BtXGAx2uyqIas" width="450" height="450" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-2DUl6BtXGAx2uyqIas">via GIPHY</a></p>
 
-  
-  </td>
+</td>
 </tr>
 </table>
+
 
 ---
 
