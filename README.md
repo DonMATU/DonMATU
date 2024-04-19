@@ -20,7 +20,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+<iframe src="https://giphy.com/embed/2DUl6BtXGAx2uyqIas" width="420" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-2DUl6BtXGAx2uyqIas">via GIPHY</a></p>
 
   
   </td>
