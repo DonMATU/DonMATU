@@ -20,7 +20,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  <img align="center" alt="Coding" width="450" src="[https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fstickers%2Ftransparent-2DUl6BtXGAx2uyqIas&psig=AOvVaw07qnAqSrNEjx3w6R1N0yAb&ust=1713651782906000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCA2r-oz4UDFQAAAAAdAAAAABAE)">
 
   
   </td>
