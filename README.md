@@ -20,7 +20,8 @@
 </td>
 <td width="50%" align="center">
 
-<iframe src="https://giphy.com/embed/2DUl6BtXGAx2uyqIas" width="450" height="450" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-2DUl6BtXGAx2uyqIas">via GIPHY</a></p>
+  <img src="images/giphy.gif" alt="GIF de GIPHY" width="450" height="450">
+
 
 </td>
 </tr>
