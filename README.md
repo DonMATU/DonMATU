@@ -15,10 +15,10 @@
   <li>💻 Programo principalmente en Bash script y estoy interesado en mejorar mis habilidades.</li>
 </ul>
 
-<!-- Imagen adicional (puedes cambiar la URL de la imagen según tus necesidades) -->
+<!-- Imagen adicional (puedes cambiar la URL de la imagen según tus necesidades) 
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="300" alt="GIF de GIPHY">
 </p>
 
 ---
-
+-->
