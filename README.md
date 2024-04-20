@@ -1,12 +1,14 @@
 <!-- Encabezado con imagen centrada -->
+<!-- Títulos centrados -->
+<h1 align="center">Bienvenido al repositorio de DonMATU</h1>
+<h3 align="center">Estudiante y apasionado de la ciberseguridad</h3>
+
 <!-- Imagen centrada con tamaño reducido -->
 <p align="center">
   <img src="https://github.com/DonMATU/DonMATU/assets/125612195/9a6c7403-d2db-43fd-92cf-3eafb864b5e5" width="400" alt="Descripción de la imagen">
 </p>
 
-<!-- Títulos centrados -->
-<h1 align="center">Bienvenido al repositorio de DonMATU</h1>
-<h3 align="center">Estudiante y apasionado de la ciberseguridad</h3>
+
 
 <!-- Contenido principal en una lista desordenada -->
 <ul>
