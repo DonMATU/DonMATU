@@ -1,8 +1,7 @@
 <!-- Encabezado con imagen centrada -->
 <p align="center">
 
-![_18966285-ba38-4d81-9a1c-f2fecea11086](https://github.com/DonMATU/DonMATU/assets/125612195/3753adca-fd07-48d9-ad78-5e50eaceda18)
-
+![_b2fa5603-5865-4023-83a7-f8bfbd9092f2](https://github.com/DonMATU/DonMATU/assets/125612195/9a6c7403-d2db-43fd-92cf-3eafb864b5e5)
   
 </p>
 
