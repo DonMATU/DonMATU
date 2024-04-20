@@ -1,6 +1,6 @@
 <!-- Encabezado con imagen centrada -->
 <p align="center">
-  <img src="https://pixabay.com/es/illustrations/hacker-computadora-la-ciberseguridad-6382413/" width="300" alt="About Me">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="300" alt="About Me">
 </p>
 
 <!-- Títulos centrados -->
