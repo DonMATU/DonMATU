@@ -1,7 +1,7 @@
 <!-- Encabezado con imagen centrada -->
 <!-- Imagen centrada con tamaño reducido -->
 <p align="center">
-  <img src="https://github.com/DonMATU/DonMATU/assets/125612195/9a6c7403-d2db-43fd-92cf-3eafb864b5e5" width="200" alt="Descripción de la imagen">
+  <img src="https://github.com/DonMATU/DonMATU/assets/125612195/9a6c7403-d2db-43fd-92cf-3eafb864b5e5" width="400" alt="Descripción de la imagen">
 </p>
 
 <!-- Títulos centrados -->
