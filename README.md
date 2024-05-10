@@ -5,7 +5,7 @@
 
 <!-- Imagen centrada con tamaño reducido -->
 <p align="center">
-  <img src="https://github.com/DonMATU/bash/assets/125612195/bd8a14f2-f565-4e4e-a977-55feb4dba354" width="100" alt="Descripción de la imagen">
+  <img src="https://github.com/DonMATU/bash/assets/125612195/bd8a14f2-f565-4e4e-a977-55feb4dba354" width="250" alt="Descripción de la imagen">
 </p>
 
 
