@@ -5,7 +5,7 @@
 
 <!-- Imagen centrada con tamaño reducido -->
 <p align="center">
-  <img src="![logo_MATU](https://github.com/DonMATU/MATU/assets/125612195/d04e19c9-3e31-45c4-a66a-c58ccda4ba36)" width="400" alt="Descripción de la imagen">
+  <img src="https://github.com/DonMATU/MATU/assets/125612195/d04e19c9-3e31-45c4-a66a-c58ccda4ba36" width="400" alt="Descripción de la imagen">
 </p>
 
 
