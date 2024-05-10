@@ -5,7 +5,7 @@
 
 <!-- Imagen centrada con tamaño reducido -->
 <p align="center">
-  <img src="https://github.com/DonMATU/DonMATU/assets/125612195/fb1ecaeb-99ec-4382-8a46-b21feeb7859d" width="400" alt="Descripción de la imagen">
+  <img src="https://github.com/DonMATU/DonMATU/assets/125612195/d37da263-792a-4843-bc93-d8c5ee18a9d3" width="400" alt="Descripción de la imagen">
 </p>
 
 
