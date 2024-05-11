@@ -1,5 +1,5 @@
 <!-- Encabezado -->
-<h1 align="center">¡Bienvenido al Repositorio de DonMATU!</h1>
+<h1 align="center">¡Bienvenido al Repositorio de DonMATU! 🛡️</h1>
 <h3 align="center">Estudiante y Apasionado de la Ciberseguridad</h3>
 
 <!-- Imagen centrada -->
@@ -7,18 +7,37 @@
   <img src="https://github.com/DonMATU/bash/assets/125612195/bd8a14f2-f565-4e4e-a977-55feb4dba354" width="250" alt="Imagen de perfil de DonMATU">
 </p>
 
-¡Hola! Soy DonMATU, un apasionado de la ciberseguridad con experiencia como administrador de sistemas en red y estudiante de ciberseguridad e ingeniería. Aquí hay algunas cosas sobre mí:
+<!-- Separador -->
+<hr>
 
-- 💼 **Administrador de Sistemas en Red:** Actualmente trabajo como administrador de sistemas en red, donde me dedico a gestionar y optimizar infraestructuras de red para garantizar su seguridad y eficiencia.
-  
-- 📚 **Estudiante Apasionado:** Me encanta aprender sobre ciberseguridad e ingeniería. Estoy constantemente buscando oportunidades para ampliar mis conocimientos y mejorar mis habilidades en este emocionante campo.
-  
-- 🛠️ **CTF y Hack The Box:** Disfruto participando en desafíos de CTF (Capture The Flag) y soy un usuario activo en plataformas como Try Hack Me y Hack The Box. Resolver estos desafíos me ayuda a mejorar mis habilidades prácticas y a mantenerme al día con las últimas tendencias en ciberseguridad.
-  
-- 💻 **Programación en Bash:** Tengo experiencia en programación, especialmente en Bash script. Siempre estoy interesado en mejorar mis habilidades de programación y explorar nuevas tecnologías y herramientas.
-  
-- 🌐 **Interés en IoT:** Me apasiona el mundo del IoT y estoy interesado en explorarlo tanto desde la perspectiva del Red Team como del Blue Team. Me fascina descubrir vulnerabilidades en dispositivos conectados y encontrar formas de protegerlos contra posibles ataques.
-  
-- 🔬 **Aspiraciones Futuras:** Mi objetivo es convertirme en forense informático o profesor de ciberseguridad en el futuro. Me gusta la idea de investigar incidentes de seguridad, analizar evidencia digital y compartir mis conocimientos con otros en el campo de la ciberseguridad.
+<div align="center">
 
-¡Gracias por visitar mi perfil! Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo.
+### 🌟 Acerca de Mí 🌟
+
+¡Hola, intrépido cibernauta! Soy DonMATU, un explorador del vasto océano digital, buscando incansablemente los secretos más profundos de la ciberseguridad y la tecnología. Aquí hay algunas pinceladas sobre mi persona:
+
+</div>
+
+<!-- Lista de Habilidades -->
+<div align="center">
+
+#### Mis Habilidades y Pasiones:
+
+- 💼 **Administrador de Sistemas en Red:** Gestiono y protejo redes como un guardián de la información.
+  
+- 📚 **Estudiante Apasionado:** Ávido aprendiz de los misterios de la ciberseguridad e ingeniería.
+  
+- 🛠️ **CTF y Hack The Box:** Navego las corrientes del ciberespacio en busca de desafíos y tesoros ocultos.
+  
+- 💻 **Programación en Bash:** Escribo hechizos en forma de scripts para conjurar soluciones mágicas.
+  
+- 🌐 **Interés en IoT:** Exploro los recovecos del Internet de las Cosas en busca de sus secretos más oscuros.
+  
+- 🔬 **Aspiraciones Futuras:** Anhelo desvelar los misterios del forense informático y compartir mi sabiduría con otros buscadores de conocimiento.
+
+</div>
+
+<!-- Separador -->
+<hr>
+
+¡Gracias por adentrarte en mi mundo digital! Si deseas unirte a mi expedición hacia el conocimiento o simplemente charlar sobre ciberseguridad, ¡no dudes en contactarme! 🚀✉️
