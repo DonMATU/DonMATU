@@ -25,12 +25,16 @@
 
 | Habilidad                    | Descripción                                                                                        |
 |------------------------------|----------------------------------------------------------------------------------------------------|
-| 💼 Guardián de Redes         | Protejo y gestiono redes como un guardián de la información.                                       |
-| 📚 Estudiante Apasionado     | Me sumerjo en los misterios de la ciberseguridad y la ingeniería con fervor.                         |
-| 🛠️ CTF - HTB y THM          | Navego las corrientes del ciberespacio en busca de desafíos y tesoros ocultos.                       |
-| 💻 Programación en Bash      | Escribo hechizos en forma de scripts para conjurar soluciones mágicas.                               |
-| 🌐 Interés en IoT            | Exploro los recovecos del Internet de las Cosas en busca de sus secretos más oscuros.                |
-| 🔬 Aspiraciones Futuras      | Anhelo desvelar los misterios del forense informático y compartir mi sabiduría con otros buscadores. |
+| 💼 Administrador de Sistemas | Gestiono y protejo redes con enfoque en seguridad informática.                                      |
+| 📚 Estudiante Apasionado     | Aprendo constantemente sobre ciberseguridad e ingeniería.                                            |
+| 🎮 CTF                        | Participo en competiciones de Capture The Flag para mejorar mis habilidades.                         |
+| 🛠️ Hack The Box              | Exploro activamente máquinas virtuales vulnerables para aprender y practicar.                       |
+| 💻 Programación en Bash      | Escribo scripts para automatizar tareas y resolver problemas.                                        |
+| 🌐 Interés en IoT            | Exploro el mundo del Internet de las Cosas y sus aplicaciones.                                       |
+| 🔬 Aspiraciones Futuras      | Quiero especializarme en forense informático y compartir conocimientos.                               |
+
+
+
 
 
 </div>
