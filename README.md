@@ -27,7 +27,7 @@
 |------------------------------|----------------------------------------------------------------------------------------------------|
 | 💼 Guardián de Redes         | Protejo y gestiono redes como un guardián de la información.                                       |
 | 📚 Estudiante Apasionado     | Me sumerjo en los misterios de la ciberseguridad y la ingeniería con fervor.                         |
-| 🛠️ CTF y Hack The Box        | Navego las corrientes del ciberespacio en busca de desafíos y tesoros ocultos.                       |
+| 🛠️ CTF - HTB y THM          | Navego las corrientes del ciberespacio en busca de desafíos y tesoros ocultos.                       |
 | 💻 Programación en Bash      | Escribo hechizos en forma de scripts para conjurar soluciones mágicas.                               |
 | 🌐 Interés en IoT            | Exploro los recovecos del Internet de las Cosas en busca de sus secretos más oscuros.                |
 | 🔬 Aspiraciones Futuras      | Anhelo desvelar los misterios del forense informático y compartir mi sabiduría con otros buscadores. |
