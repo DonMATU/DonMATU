@@ -1,13 +1,24 @@
 <!-- Encabezado -->
-# ¡Bienvenido al Repositorio de DonMATU!
-## Estudiante y Apasionado de la Ciberseguridad
+<h1 align="center">¡Bienvenido al Repositorio de DonMATU!</h1>
+<h3 align="center">Estudiante y Apasionado de la Ciberseguridad</h3>
 
 <!-- Imagen centrada -->
 <p align="center">
   <img src="https://github.com/DonMATU/bash/assets/125612195/bd8a14f2-f565-4e4e-a977-55feb4dba354" width="250" alt="Imagen de perfil de DonMATU">
 </p>
 
-¡Hola! Soy DonMATU, un entusiasta de la ciberseguridad con experiencia como administrador de sistemas en red y estudiante de ciberseguridad e ingeniería. Aquí hay algunas cosas sobre mí:
+<div align="center">
+
+![Administramos Redes](https://img.shields.io/badge/Administramos-Redes-blue)
+![Estudiamos Ciberseguridad](https://img.shields.io/badge/Estudiamos-Ciberseguridad-green)
+![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Activo-orange)
+![Bash Script](https://img.shields.io/badge/Programamos-Bash-yellow)
+![Interés en IoT](https://img.shields.io/badge/Inter%C3%A9s%20en-IoT-red)
+![Aspiraciones Futuras](https://img.shields.io/badge/Aspiraciones-Futuras-lightgrey)
+
+</div>
+
+¡Hola! Soy **DonMATU**, un entusiasta de la ciberseguridad con experiencia como administrador de sistemas en red y estudiante de ciberseguridad e ingeniería. Aquí hay algunas cosas sobre mí:
 
 - 💼 **Administrador de Sistemas en Red:** Actualmente trabajo como administrador de sistemas en red, donde me dedico a gestionar y optimizar infraestructuras de red para garantizar su seguridad y eficiencia.
   
