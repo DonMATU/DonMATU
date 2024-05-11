@@ -14,7 +14,7 @@
 
 ### 🌟 Acerca de Mí 🌟
 
-¡Hola, intrépido cibernauta! Soy DonMATU, un explorador del vasto océano digital, buscando incansablemente los secretos más profundos de la ciberseguridad y la tecnología. Aquí hay algunas pinceladas sobre mi persona:
+¡Hola! Soy **DonMATU**, un entusiasta de la ciberseguridad con experiencia como administrador de sistemas en red y estudiante de ciberseguridad e ingeniería. Aquí hay algunas cosas sobre mí:
 
 </div>
 
